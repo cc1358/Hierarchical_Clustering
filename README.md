@@ -1,0 +1,3 @@
+This project demonstrates the implementation and exploration of hierarchical clustering, an unsupervised machine learning technique. The script uses Python libraries such as NumPy, Matplotlib, SciPy, and Scikit-learn to generate sample data, perform clustering with different linkage methods, visualize results through scatter plots and dendrograms, and discuss advanced topics like inversion, practical applications, and limitations.
+
+The project is designed as an educational tool to understand how hierarchical clustering works, compare linkage criteria, and explore its real-world applications and challenge
